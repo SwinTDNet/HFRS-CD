@@ -19,6 +19,7 @@ Table 1: Comparison results on HFRS-CD dataset. The highest scores are highlight
 
 # Download
 
-[Baidu](https://pan.baidu.com/s/1A0PRx--25aI8ulT1hX4njQ)   需要提取码请发邮件至mjzhou@mail.ustc.edu.cn
+  后续会公开我们的数据集
+<!-- [Baidu](https://pan.baidu.com/s/1A0PRx--25aI8ulT1hX4njQ)  -->
 
 
