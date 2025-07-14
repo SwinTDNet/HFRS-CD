@@ -11,14 +11,14 @@ Figure 2: Examples of correct annotations for shaded buildings in our dataset, w
 
 # Experimental results on our dataset.
 Figure 3: Visual comparison on the HFRS-CD dataset. The parts marked in the red boxes show that our method achieves more efficient detection results than other methods.
-![image](images/HFRS.png)
+![image](images/HFRS_image.png)
 
-Table 1: Comparison results on HFRS-CD dataset. The highest scores are highlighted in bold.All scores are described as percentages (%).
-![image](images/image.png)
+Table 1: Comparison results on HFRS-CD dataset. The highest scores are highlighted in bold.
+![image](images/HFRS_table.png)
 
 # Download
 
-We will make our dataset public later.  lllll
+We will make our dataset public later. 
 <!-- [Baidu](https://pan.baidu.com/s/1A0PRx--25aI8ulT1hX4njQ)   -->
 
 
