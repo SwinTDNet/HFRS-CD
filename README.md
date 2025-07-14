@@ -11,19 +11,19 @@ Figure 1: For the selection of the research area of post-disaster building chang
 
 Figure 2: Examples of correct annotations for shaded buildings in our dataset, with the green flow for correct annotations (our annotations) and the red flow for incorrect annotations (shaded parts of buildings).
 <div align="center">
-  <img src="images/change_1.png" alt="Figure 2" width="800"/>
+  <img src="images/change_1.png" alt="Figure 2" width="600"/>
 </div>
 
 
 # Experimental results on HFRS-CD dataset.
 Figure 3: Visual comparison on the HFRS-CD dataset. The parts marked in the red boxes show that our method achieves more efficient detection results than other methods.
 <div align="center">
-  <img src="images/HFRS_image.png" alt="Figure 3" width="800"/>
+  <img src="images/HFRS_image.png" alt="Figure 3" width="1000"/>
 </div>
 
 Table 1: Comparison results on HFRS-CD dataset. The highest scores are highlighted in bold.
 <div align="center">
-  <img src="images/HFRS_table.png" alt="Table 1" width="800"/>
+  <img src="images/HFRS_table.png" alt="Table 1" width="600"/>
 </div>
 
 # Download
