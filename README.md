@@ -4,7 +4,9 @@
 
 Figure 1: For the selection of the research area of post-disaster building changes, we chose the coastal areas where buildings were damaged by the dual major natural disasters of the East Japan Earthquake and Tsunami on March 11, 2011. This figure shows the location and size of the 28 areas we collected, and we also show two pairs of enlarged area image examples. Our collection covers almost all coastal buildings affected by this disaster.
 ![image](images/data_source_bigger.png)
-<img src="images/data_source_bigger.png" alt="Figure 1" width="600"/>
+<div align="center">
+  <img src="images/data_source_bigger.png" alt="Figure 1" width="600"/>
+</div>
 
 
 Figure 2: Examples of correct annotations for shaded buildings in our dataset, with the green flow for correct annotations (our annotations) and the red flow for incorrect annotations (shaded parts of buildings).
